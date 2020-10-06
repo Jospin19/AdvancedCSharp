@@ -1,0 +1,10 @@
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\bin\Debug\netcoreapp2.1\Attributes.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\bin\Debug\netcoreapp2.1\Attributes.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\bin\Debug\netcoreapp2.1\Attributes.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\bin\Debug\netcoreapp2.1\Attributes.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\bin\Debug\netcoreapp2.1\Attributes.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\obj\Debug\netcoreapp2.1\Attributes.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\obj\Debug\netcoreapp2.1\Attributes.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\obj\Debug\netcoreapp2.1\Attributes.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\obj\Debug\netcoreapp2.1\Attributes.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Attributes\obj\Debug\netcoreapp2.1\Attributes.pdb

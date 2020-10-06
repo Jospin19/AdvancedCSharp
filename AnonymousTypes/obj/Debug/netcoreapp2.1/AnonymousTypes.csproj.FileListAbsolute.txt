@@ -1,0 +1,21 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\bin\Debug\netcoreapp2.1\AnonymousTypes.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousTypes\obj\Debug\netcoreapp2.1\AnonymousTypes.pdb

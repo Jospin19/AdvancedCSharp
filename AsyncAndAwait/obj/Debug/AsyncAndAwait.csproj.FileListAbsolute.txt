@@ -1,0 +1,19 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.Form1.resources
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.Properties.Resources.resources
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.GenerateResource.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.Form1.resources
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.Properties.Resources.resources
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.GenerateResource.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb

@@ -1,0 +1,20 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\bin\Debug\netcoreapp2.1\AnonymousAndLambda.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\AnonymousAndLambda\obj\Debug\netcoreapp2.1\AnonymousAndLambda.pdb

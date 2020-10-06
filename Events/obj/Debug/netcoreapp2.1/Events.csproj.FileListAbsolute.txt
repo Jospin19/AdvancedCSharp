@@ -1,0 +1,21 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\bin\Debug\netcoreapp2.1\Events.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Events\obj\Debug\netcoreapp2.1\Events.pdb

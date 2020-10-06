@@ -1,0 +1,21 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\bin\Debug\netcoreapp2.1\TaskParallelLibrary.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\TaskParallelLibrary\obj\Debug\netcoreapp2.1\TaskParallelLibrary.pdb

@@ -1,0 +1,21 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\bin\Debug\netcoreapp2.1\Delegates.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Delegates\obj\Debug\netcoreapp2.1\Delegates.pdb

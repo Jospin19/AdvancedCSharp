@@ -1,0 +1,21 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb

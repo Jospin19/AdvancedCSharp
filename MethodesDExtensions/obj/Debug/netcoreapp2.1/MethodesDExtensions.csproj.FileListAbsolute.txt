@@ -1,0 +1,21 @@
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.deps.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.pdb
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.dll
+D:\Ecole\Univers tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\bin\Debug\netcoreapp2.1\MethodesDExtensions.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\MethodesDExtensions\obj\Debug\netcoreapp2.1\MethodesDExtensions.pdb

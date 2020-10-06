@@ -1,0 +1,10 @@
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+D:\Ecole\Univers_tuto\repos\AdvancedCSharp\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
